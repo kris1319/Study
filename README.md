@@ -1,2 +1,3 @@
 # Study
-My scientific work progress in time
+
+Progress of my scientific work
